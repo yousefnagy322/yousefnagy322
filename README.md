@@ -31,7 +31,7 @@
 ---
 
 ### 🌟 Featured Projects
-- 🩺 [CanserScan](https://github.com/yousefnagy322/CanserScan) – Flutter project with AI integration
+- 🩺 [CancerScan](https://github.com/yousefnagy322/CancerScan) – Flutter project with AI integration
 - 🌦️ [Weather App](https://github.com/yousefnagy322/Weather-App) – Weather data with API & Bloc  
 - ☕ [Coffee App](https://github.com/yousefnagy322/Coffee-App) – UI-focused ordering app  
 - 🎓 [DEPI Graduation Project](https://github.com/yousefnagy322/DEPI-Graduation-Project) – Team-based Flutter project  
