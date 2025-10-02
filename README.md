@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <h3 align="center">💙 Flutter Developer | Crafting Mobile Experiences</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
 </p>
 
 ---
