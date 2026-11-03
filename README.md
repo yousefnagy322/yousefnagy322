@@ -1,63 +1,32 @@
-<h1 align="center">Hi 👋, I'm Yousef</h1>
-<h3 align="center">Flutter Developer | Turning Ideas into Mobile Apps 🚀</h3>
+<h1 align="center">Hi, I'm Yousef Nagy 👋</h1>
+<p align="center">Flutter developer building useful, polished mobile experiences.</p>
 
----
-
-### 🚀 About Me
-- 📱 Flutter enthusiast crafting **beautiful & smooth mobile experiences**  
-- 🔧 Skilled in **Bloc, Provider, Riverpod** for state management  
-- 🌱 Currently improving skills in **Flutter animations, performance optimization & advanced UI**  
-- 💡 Passionate about turning ideas into real apps  
-
----
-
-### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
+  <a href="https://www.linkedin.com/in/yousef-nagy">LinkedIn</a> ·
+  <a href="mailto:yousefnagy322@gmail.com">Email</a> ·
+  <a href="https://github.com/yousefnagy322">GitHub</a>
 </p>
 
----
+## About
 
-### 🌟 Featured Projects
+I build Flutter applications and enjoy turning ideas into practical, easy-to-use products. I work with BLoC, Provider, and Riverpod for state management, and I’m interested in animation, performance, and thoughtful UI.
 
-- 📊 [DEPI MOI Digital Report System](https://github.com/yousefnagy322/DEPI-MOI-Digital-Report-System) – Flutter app for digital reporting, helping streamline MOI reports with Firebase integration and real-time updates.  
+## Tech stack
 
-- 🏥 [DEPI Hospital Complaint System](https://github.com/mohameds123/DEPI-Hospital-Complaint-system) – Flutter app for hospital feedback: patients & staff can submit complaints, requests, or suggestions, and track their status.  
-
-- 🛒 [Collaborative Shopping List](https://github.com/yousefnagy322/Collaborative-Shopping-List) – Team-based shopping list app with real-time updates for smooth collaboration.  
-
-- 🩺 [CancerScan](https://github.com/yousefnagy322/CancerScan) – AI-integrated Flutter app for medical scanning and analysis.  
-
-- 🌦️ [Weather App](https://github.com/yousefnagy322/Weather-App) – Weather app using API integration and Bloc for responsive and dynamic forecasts.  
-
-- ☕ [Coffee App](https://github.com/yousefnagy322/Coffee-App) – UI-focused ordering app with smooth animations and responsive design.  
-
-- 💻 [Portfolio](https://github.com/yousefnagy322/Portfolio) – Personal portfolio website showcasing projects, skills, and contact info.  
-
----
-
-### 🌱 Currently Learning
-- Advanced Flutter animations & transitions  
-- Firebase Firestore & cloud functions  
-- CI/CD & testing for Flutter apps  
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefnagy322&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefnagy322&layout=compact&theme=tokyonight" height="160"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" alt="Flutter, Dart, Firebase, Git, GitHub, VS Code, and Android Studio" />
 </p>
 
----
+## Featured projects
 
-### 🌍 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yousef-nagy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yousefnagy322@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yousefnagy322"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-</p>
+- **[DEPI MOI Digital Report System](https://github.com/yousefnagy322/DEPI-MOI-Digital-Report-System)** — A cross-platform reporting app with user, officer, and admin experiences, report tracking, media attachments, and analytics.
+- **[Collaborative Shopping List](https://github.com/yousefnagy322/Collaborative-Shopping-List)** — A shared shopping list app with real-time collaboration.
+- **[CancerScan](https://github.com/yousefnagy322/CancerScan)** — A Flutter app for AI-assisted medical scan analysis.
+- **[Weather App](https://github.com/yousefnagy322/Weather-App)** — A Flutter weather app using API data and BLoC.
+- **[Coffee App](https://github.com/yousefnagy322/Coffee-App)** — A coffee ordering app focused on responsive UI and animations.
+- **[Portfolio](https://github.com/yousefnagy322/Portfolio)** — My portfolio site and project showcase.
 
----
+## Connect
 
-⭐️ *Thanks for visiting my profile! I love building Flutter apps—check out my work 🚀*
+- LinkedIn: [yousef-nagy](https://www.linkedin.com/in/yousef-nagy)
+- Email: [yousefnagy322@gmail.com](mailto:yousefnagy322@gmail.com)
